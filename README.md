@@ -1,0 +1,112 @@
+# COLORFUL 4k images
+### ckau-book theme addon
+
+
+This is an addon for [ckau-book](https://github.com/CkauNui/ckau-book) Emulationstation Theme.<br/>
+Provides high-detailed, beautiful 3840x2160 system images for both Colorful and Darkful views.
+<br/>
+<p>
+      <a href="https://img.shields.io/github/stars/CkauNui/ckau-book-addons-Colorful-4K-Images" alt="stars">
+        <img src="https://img.shields.io/github/stars/CkauNui/ckau-book-addons-Colorful-4K-Images" /></a>
+      <a href="https://img.shields.io/github/forks/CkauNui/ckau-book-addons-Colorful-4K-Images" alt="Forks">
+        <img src="https://img.shields.io/github/forks/CkauNui/ckau-book-addons-Colorful-4K-Images" /></a>
+      <a href="https://img.shields.io/github/issues/CkauNui/ckau-book-addons-Colorful-4K-Images" alt="Issues">
+        <img src="https://img.shields.io/github/issues/CkauNui/ckau-book-addons-Colorful-4K-Images" /></a>
+      <a href="https://img.shields.io/github/issues-closed/CkauNui/ckau-book-addons-Colorful-4K-Images" alt="Issues Closed">
+        <img src="https://img.shields.io/github/issues-closed/CkauNui/ckau-book-addons-Colorful-4K-Images" /></a>
+      <a href="https://img.shields.io/github/issues-pr-closed/CkauNui/ckau-book-addons-Colorful-4K-Images" alt="Closed PR">
+        <img src="https://img.shields.io/github/issues-pr-closed/CkauNui/ckau-book-addons-Colorful-4K-Images" /></a>
+</p>
+
+## Screenshots
+
+|                                    |                                    |                                    |
+| :--------------------------------: | :--------------------------------: | :--------------------------------: |
+| ![](https://raw.githubusercontent.com/CkauNui/ckau-book-addons-Colorful-4K-Images/main/ckau-book-addons/_inc/anim/4K/amiga500.png) | ![](https://raw.githubusercontent.com/CkauNui/ckau-book-addons-Colorful-4K-Images/main/ckau-book-addons/_inc/anim/4K/atomiswave.png) | ![](https://raw.githubusercontent.com/CkauNui/ckau-book-addons-Colorful-4K-Images/main/ckau-book-addons/_inc/anim/4K/fbneo.png) |
+| ![](https://raw.githubusercontent.com/CkauNui/ckau-book-addons-Colorful-4K-Images/main/ckau-book-addons/_inc/anim/4K/atari2600.png) | ![](https://raw.githubusercontent.com/CkauNui/ckau-book-addons-Colorful-4K-Images/main/ckau-book-addons/_inc/anim/4K/nes.png) | ![](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/blob/main/ckau-book-addons/_inc/anim/4K/snes.png?raw=true) |
+| ![](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/blob/main/ckau-book-addons/_inc/anim/4K/megadrive.png?raw=true) | ![](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/blob/main/ckau-book-addons/_inc/anim/4K/xbox.png?raw=true) | ![](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/blob/main/ckau-book-addons/_inc/anim/4K/switch.png?raw=true) |
+
+
+## Pre-requisites
+
+In order to get the addon to work, you must have [ckau-book](https://github.com/CkauNui/ckau-book) theme installed in your EmulationStation build for Batocera or Retrobat.<br/>
+To install the theme, you can either:
+
+- Grab it straight from EmulationStation *(Settings > Updates and downloads > Themes > ckau-book)*
+- Clone the Github repository into your ES themes directory:<br/>
+`git clone https://github.com/CkauNui/ckau-book.git`
+- Download the latest [Github code](https://github.com/CkauNui/ckau-book/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
+
+## Installation
+
+Once you have installed [ckau-book](https://github.com/CkauNui/ckau-book) theme, you can then install the addon:
+
+- Clone the Github repository into your ES themes directory:<br/>
+`git clone https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images.git`
+- Download the latest [Github code](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
+
+Once installed, when loaded, *ckau-book* theme automatically will pick 4K images, instead of default Full HD ones.
+
+### Addons directory path
+
+Addons directory should be created automatically when cloning the repository or unzipping files from Github archive code, but after installing please double-check that  `ckau-book-addons` directory exists and is placed inside the ES themes directory, at the same level of the `ckau-book` theme directory (this means, NOT inside `ckau-book` directory!):
+
+```...
+   themes/
+      ckau-book/
+      ckau-book-addons/
+```
+
+Tthe addons directory must be in this position to ensure that addons will not be overwritten by ES theme update procedure.
+
+### Uninstall the addon
+
+If you'd like to uninstall this 4K addon and revert to default Full HD images, delete the `/themes/ckau-book-addons/_inc/anim/4K` directory.
+
+## Other addons available
+
+Check out also:
+
+- [COLORFUL Video pack](https://github.com/CkauNui/ckau-book-addons-Colorful-Video): a gameplay video for each system will show as default in Colorful/Darkful
+- [CONSOLES Arts pack](https://github.com/CkauNui/ckau-book-addons-Consoles): full-screen consoles/computers photos, as alternative to Colorful/Darkful system views
+- [WALLPAPERS Arts pack](https://github.com/CkauNui/ckau-book-addons-Wallpapers): full-screen artworks inspired by consoles/computers games, as alternative to Colorful/Darkful system views
+
+## Credits
+
+- Autors:
+  - Ckau ([@CkauNui](https://github.com/CkauNui)), [@Lendersmark](https://github.com/Lendersmark), [@g-spawnPL](https://github.com/g-spawnPL)
+  - Inspiration (and much more) taken from beautiful [Colorful](https://forums.launchbox-app.com/topic/51590-colorful-bigbox-theme) Launchbox/Bigbox theme by [Viking](https://forums.launchbox-app.com/profile/70421-viking)
+
+## License
+
+- ALLOWED
+  - Share and duplicate as it is
+  - Edit, alter, change it
+- REQUIREMENTS:
+  - Attribution, give credit to the creator
+  - Indicate changes to it
+  - Publish the changes under the same license
+- PROHIBITED:
+  - Commercial distribution
+
+### Copyrights / Sources
+
+- Each brand of hardware and software here represented as a tribute.<br/>
+- All logos, trademarks and photos are copyright of their respective owners.<br/>
+- The [Vanamo Online Game Museum](https://commons.wikimedia.org/wiki/User:Evan-Amos) for most of the photos.<br/>
+- PICO-8 image taken from [PICO-8 Handheld Console Concept](https://www.behance.net/gallery/143131355/PICO-8-Handheld-Console-Concept) by Luiz Felipe Moura.
+
+### Logo Notice
+
+Logos and trademarks are copyright of their respective owners.
+  
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
