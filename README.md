@@ -32,18 +32,18 @@ Provides high-detailed, beautiful 3840x2160 system images for both Colorful and 
 In order to get the addon to work, you must have [ckau-book](https://github.com/CkauNui/ckau-book) theme installed in your EmulationStation build for Batocera or Retrobat.<br/>
 To install the theme, you can either:
 
-- Grab it straight from EmulationStation *(Settings > Updates and downloads > Themes > ckau-book)*
+- Grab it straight from EmulationStation *(Settings > Updates and downloads > Themes > ckau-book)*, or
 - Clone the Github repository into your ES themes directory:<br/>
-`git clone https://github.com/CkauNui/ckau-book.git`
+`git clone https://github.com/CkauNui/ckau-book.git`, or
 - Download the latest [Github code](https://github.com/CkauNui/ckau-book/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
 
 ## Installation
 
-Once you have installed [ckau-book](https://github.com/CkauNui/ckau-book) theme, you can then install the addon:
+Once you have installed [ckau-book](https://github.com/CkauNui/ckau-book) theme, you can then install the addon, either by:
 
-- Clone the Github repository into your ES themes directory:<br/>
-`git clone https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images.git`
-- Download the latest [Github code](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
+- Cloning the Github repository into your ES themes directory:<br/>
+`git clone https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images.git`, or
+- Downloading the latest [Github code](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
 
 Once installed, when loaded, *ckau-book* theme automatically will pick 4K images, instead of default Full HD ones.
 
