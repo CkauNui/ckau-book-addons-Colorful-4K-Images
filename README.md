@@ -70,6 +70,7 @@ Check out also:
 - [COLORFUL Video pack](https://github.com/CkauNui/ckau-book-addons-Colorful-Video): a gameplay video for each system will show as default in Colorful/Darkful
 - [CONSOLES Arts pack](https://github.com/CkauNui/ckau-book-addons-Consoles): full-screen consoles/computers photos, as alternative to Colorful/Darkful system views
 - [WALLPAPERS Arts pack](https://github.com/CkauNui/ckau-book-addons-Wallpapers): full-screen artworks inspired by consoles/computers games, as alternative to Colorful/Darkful system views
+- [CINEMATIC Video pack](https://github.com/CkauNui/ckau-book-addons-Cinematic-Video): full-screen platform inspired videos, as alternative to Colorful/Darkful system views
 
 ## Credits
 
